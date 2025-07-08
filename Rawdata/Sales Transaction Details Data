@@ -1,0 +1,24 @@
+该数据文件包含了2020年7月1日至2023年6月30日期间，某商超的蔬菜类商品的销售流水明细。总共有878504条记录。每条记录包含以下字段：
+
+销售日期：记录每次销售的日期。
+销售时间：精确到秒的销售时间，方便进行时间分析。
+商品编码：每个商品的唯一标识符。
+销售数量（千克）：记录每笔交易中该商品的销售量，单位是千克。
+销售单价（元/千克）：每个商品的销售价格，单位是元每千克。
+销售类型：商品的销售类型（通常为“销售”）。
+是否打折销售：指示该商品是否处于打折状态。
+
+这个数据集的主要用途是帮助商超进行销售分析，理解不同商品的销售模式，并为后续的定价和补货决策提供支持。数据中的销售时间和商品类别信息可以进一步分析蔬菜类商品的需求趋势和价格波动。
+
+
+This dataset contains the sales transaction details for vegetable products at a supermarket from July 1, 2020, to June 30, 2023, with a total of 878,504 records. Each record includes the following fields:
+
+Sales Date: The date of each sale transaction.
+Sales Time: The exact time of the sale, accurate to the second, useful for time-based analysis.
+Product Code: A unique identifier for each product.
+Sales Quantity (kg): The quantity of the product sold in kilograms.
+Sales Price (yuan/kg): The sales price of the product per kilogram, in yuan.
+Sales Type: The type of sale (typically "sale").
+Discounted Sales: Indicates whether the product was sold at a discount.
+
+This dataset is primarily used to analyze sales patterns, understand the demand trends for different vegetable products, and support pricing and replenishment decisions. The sales time and product category information can help further analyze price fluctuations and the demand for specific vegetables.
