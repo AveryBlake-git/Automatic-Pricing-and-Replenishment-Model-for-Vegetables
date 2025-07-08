@@ -40,3 +40,6 @@ Real-time Data: Incorporating real-time data and adjusting strategies dynamicall
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contributor
+Jinyu Liao(me); Jingyu Wang; Baoying Huang
